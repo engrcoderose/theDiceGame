@@ -1,5 +1,5 @@
 
-function setNames(){
+function playIt(){
     // document.querySelector("p.name1").innerHTML = name1;
     // document.querySelector("p.name2").innerHTML = name2;
     var randomNumber1 = Math.floor(Math.random() * 6) + 1;
